@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/test_infer.dir/obj_infer.cpp.o  -o test_infer  -L/root/Obj_infer/lite.ai.toolkit/lib} -Wl,-rpath,/root/Obj_infer/lite.ai.toolkit/lib} -llite.ai.toolkit -lonnxruntime -lopencv_core -lopencv_imgcodecs -lopencv_imgproc -lopencv_highgui 

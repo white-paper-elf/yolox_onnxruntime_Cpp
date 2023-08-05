@@ -1,0 +1,3 @@
+/root/Obj_infer/build/CMakeFiles/rebuild_cache.dir
+/root/Obj_infer/build/CMakeFiles/test_infer.dir
+/root/Obj_infer/build/CMakeFiles/edit_cache.dir
